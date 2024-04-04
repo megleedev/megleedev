@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋, I'm Meg
+
+[![megleedev's GitHub | Stats](https://stats.quine.sh/megleedev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=megleedev) 
+[![megleedev's GitHub | Languages Over Time](https://stats.quine.sh/megleedev/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=megleedev)
 
 <!--
 **megleedev/megleedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
