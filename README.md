@@ -13,7 +13,13 @@
 
 
 
+<a href="https://github.com/megleedev/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=megleedev&show_icons=true&theme=transparent&rank_icon=github" />
+</a>
+<a href="https://github.com/megleedev/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=megleedev&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+<br><br>
 
-
-[![megleedev's GitHub | Stats](https://stats.quine.sh/megleedev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=megleedev) 
+![](https://komarev.com/ghpvc/?username=megleedev)
