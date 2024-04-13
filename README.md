@@ -25,7 +25,7 @@
 
 ### GitHub Stats
 <p>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=megleedev&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=megleedev&show_icons=true&theme=transparent&hide_rank=true" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=megleedev&layout=compact&theme=transparent" />
 </p>
 
