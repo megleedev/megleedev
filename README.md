@@ -1,6 +1,4 @@
-### Hi, I'm Meg <img src="wave.gif" width="30" height="30"/>
-
-
+# Hi, I'm Meg <img src="wave.gif" width="30" height="30"/>
 
 - 💼 I’m a AAA game developer with 8 years of experience in Production and Release roles
 - 🛠️ I'm working on Rocket League, Rocket League Sideswipe, and Fortnite
@@ -9,7 +7,7 @@
 - 🎓 I've previously earned a BA in English, a MS in Game Design, and a Certificate from The Tech Academy's Game Developer Bootcamp
 
 
-### Technology Stack
+# Technology Stack :computer:
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -23,12 +21,34 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-### GitHub Stats
+
+# Currently... :thought_balloon:
+[![Working On](https://img.shields.io/badge/Working_on-2D_Playable_Portfolio-d982e2.svg)](https://shields.io/)
+[![Learning](https://img.shields.io/badge/Learning-Building_An_Interpreter-5e8e90.svg)](https://shields.io/)
+[![Watching](https://img.shields.io/badge/Watching-Fallout-d58d13.svg)](https://shields.io/)
+[![Playing](https://img.shields.io/badge/Playing-Helldivers_2-2009b7.svg)](https://shields.io/)
+[![Reading](https://img.shields.io/badge/Reading-The_Silmarillion-bd4549.svg)](https://shields.io/)
+[![Listening To](https://img.shields.io/badge/Listening_To-Critical_Role-416bdc.svg)](https://shields.io/)
+
+
+
+# Contact Me :pencil2:
+<p>
+  <a href="https://www.linkedin.com/in/meghan-lee-b8282767/">
+    <img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:megleedev@outlook.com?subject=Interest%20in%20Your%20Skills&body=Hi,%20I'm%20interested%20in%20learning%20more%20about%20your%20skills.">
+    <img src="https://skillicons.dev/icons?i=gmail" /></a>
+</a>
+</p>
+
+
+
+# GitHub Stats :chart_with_upwards_trend:
 <p>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=megleedev&show_icons=true&theme=transparent&hide_rank=true" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=megleedev&layout=compact&theme=transparent" />
 </p>
 
-<br><br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=megleedev)
