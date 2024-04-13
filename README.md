@@ -36,7 +36,7 @@
 <p>
   <a href="https://www.linkedin.com/in/meghan-lee-b8282767/">
     <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:megleedev@outlook.com?subject=Interest%20in%20Your%20Skills&body=Hi,%20I'm%20interested%20in%20learning%20more%20about%20your%20skills.">
+  <a href="mailto:megleedev@outlook.com">
     <img src="https://skillicons.dev/icons?i=gmail" /></a>
 </a>
 </p>
