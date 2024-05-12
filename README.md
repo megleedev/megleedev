@@ -34,11 +34,9 @@
 
 # Contact Me :pencil2:
 <p>
-  <a href="https://www.linkedin.com/in/meghan-lee-b8282767/">
-    <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:megleedev@outlook.com">
-    <img src="https://skillicons.dev/icons?i=gmail" /></a>
-</a>
+  <a href="https://www.linkedin.com/in/meghan-lee-b8282767/"><img src="https://cdn.simpleicons.org/googlechrome/white" width="50" height="50"/></a>
+  <a href="https://megleedev.github.io/2D-Portfolio/"><img src="https://cdn.simpleicons.org/linkedin/white" width="50" height="50"/></a>
+  <a href="mailto:megleedev@outlook.com"><img src="https://cdn.simpleicons.org/microsoftoutlook/white" width="50" height="50"/></a>
 </p>
 
 
