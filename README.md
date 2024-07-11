@@ -36,7 +36,7 @@
 <p>
   <a href="https://megleedev.github.io/2D-Portfolio/"><img src="https://cdn.simpleicons.org/googlechrome/white" width="50" height="50"/></a>
   <a href="https://www.linkedin.com/in/meghan-lee-b8282767"><img src="https://cdn.simpleicons.org/linkedin/white" width="50" height="50"/></a>
-  <a href="mailto:megleedev@outlook.com"><img src="https://cdn.simpleicons.org/microsoftoutlook/white" width="50" height="50"/></a>
+  <a href="mailto:megleedev@outlook.com"><img src="https://cdn.simpleicons.org/maildotru/white" width="50" height="50"/></a>
 
   *ctrl + click (windows) or cmd + click (mac) to open in a new tab*
 </p>
