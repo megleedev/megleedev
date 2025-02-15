@@ -23,11 +23,11 @@
 
 
 # Currently... :thought_balloon:
-[![Working On](https://img.shields.io/badge/Working_on-2D_Playable_Portfolio-d982e2.svg)](https://shields.io/)
-[![Learning](https://img.shields.io/badge/Learning-Building_An_Interpreter-5e8e90.svg)](https://shields.io/)
-[![Watching](https://img.shields.io/badge/Watching-Fallout-d58d13.svg)](https://shields.io/)
-[![Playing](https://img.shields.io/badge/Playing-Helldivers_2-2009b7.svg)](https://shields.io/)
-[![Reading](https://img.shields.io/badge/Reading-The_Silmarillion-bd4549.svg)](https://shields.io/)
+[![Working On](https://img.shields.io/badge/Working_on-Pong-d982e2.svg)](https://shields.io/)
+[![Learning](https://img.shields.io/badge/Learning-Data_Structures_and_Algorithms-5e8e90.svg)](https://shields.io/)
+[![Watching](https://img.shields.io/badge/Watching-Arcane-d58d13.svg)](https://shields.io/)
+[![Playing](https://img.shields.io/badge/Playing-Kingdom_Come_Deliverance_2-2009b7.svg)](https://shields.io/)
+[![Reading](https://img.shields.io/badge/Reading-Chainsaw_Man-bd4549.svg)](https://shields.io/)
 [![Listening To](https://img.shields.io/badge/Listening_To-Critical_Role-416bdc.svg)](https://shields.io/)
 
 
